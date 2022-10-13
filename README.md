@@ -1,7 +1,5 @@
 <p align="center">
-	<a href="https://d2d-soft.com/">
-		<img alt="D2d-Soft" height="50px" src="https://d2d-soft.com/img/logo.png"/>
-	</a>
+	![D2d-Soft](https://d2d-soft.com/img/logo.png)
 </p>
 
 # CubeCart Data Migration Tool
