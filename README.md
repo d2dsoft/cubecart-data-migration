@@ -10,8 +10,10 @@
 - [HikaShop to CubeCart Migration](https://d2d-soft.com/cubecart-migration/455-1872-hikashop-to-cubecart-migration-tool.html#/72-entities-1000)
 - [J2Store to CubeCart Migration](https://d2d-soft.com/cubecart-migration/498-2067-j2store-to-cubecart-migration-tool.html#/72-entities-1000)
 - [JigoShop to CubeCart Migration](https://d2d-soft.com/cubecart-migration/538-2252-jigoshop-to-cubecart-migration-tool.html#/72-entities-1000)
+- [JoomShopping to CubeCart Migration](https://d2d-soft.com/cubecart-migration/588-2492-joomshopping-to-cubecart-migration-tool.html#/72-entities-1000)
 - [Loaded Commerce to CubeCart Migration](https://d2d-soft.com/cs-cart-migration/311-1322-loaded-to-cs-cart-migration-tool.html)
 - [Magento to CubeCart Migration](https://d2d-soft.com/cs-cart-migration/312-1327-magento-to-cs-cart-migration-tool.html)
+- [MarketPress to CubeCart Migration](https://d2d-soft.com/cubecart-migration/563-2372-marketpress-to-cubecart-migration-tool.html#/72-entities-1000)
 - [OpenCart to CubeCart Migration](https://d2d-soft.com/cs-cart-migration/313-1332-opencart-to-cs-cart-migration-tool.html)
 - [osCommerce to CubeCart Migration](https://d2d-soft.com/cs-cart-migration/314-1337-oscommerce-to-cs-cart-migration-tool.html)
 - [OXID-eShop to CubeCart Migration](https://d2d-soft.com/cs-cart-migration/315-1342-oxid-eshop-to-cs-cart-migration-tool.html)
@@ -32,8 +34,10 @@
 - [HikaShop](https://www.hikashop.com/)
 - [J2Store](https://www.j2store.org/)
 - JigoShop
+- [JoomShopping](https://extensions.joomla.org/extension/joomshopping/)
 - [Loaded Commerce](https://loadedcommerce.com/)
 - [Magento](https://magento.com/)
+- MarketPress
 - [OpenCart](https://www.opencart.com/)
 - [osCommerce](https://www.oscommerce.com/)
 - [OXID-eShop](https://www.oxid-esales.com)
@@ -52,3 +56,8 @@ The tool is standalone software. You only upload the tool to your server. You do
 ## License
 
 [AFL](http://d2d-soft.com/license/AFL.txt)
+
+## Contact US
+Website: https://d2d-soft.com/ \
+Email: contact@d2d-soft.com \
+Youtube: https://www.youtube.com/@d2dsoft 
