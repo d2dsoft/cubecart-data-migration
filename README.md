@@ -3,6 +3,7 @@
 [CubeCart Data Migration Tool](https://d2d-soft.com/21-cubecart-migration) is a solution for migrating data to CubeCart from another platform. The tool support migrating many entity types (taxes, manufacturers, categories, products, customers, orders, reviews) with many options. The tool can work in the local environment or the online environment. We also provide the [Custom Migration Service](http://d2d-soft.com/migration-services/296-data-migration-customization.html) if you have a specific requirement. 
 
 ## Products
+- [AmeriCommerce to CubeCart Migration](https://d2d-soft.com/cubecart-migration/765-7243-americommerce-to-cubecart-migration-tool.html#/72-entities-1000)
 - [BigCommerce to CubeCart Migration](https://d2d-soft.com/cubecart-migration/411-1662-bigcommerce-to-cubecart-migration-tool.html#/72-entities-1000)
 - [CS-Cart to CubeCart Migration](https://d2d-soft.com/cs-cart-migration/309-1312-cs-cart-to-cs-cart-migration-tool.html)
 - [CubeCart to CubeCart Migration](https://d2d-soft.com/cs-cart-migration/310-1317-cubecart-to-cs-cart-migration-tool.html)
@@ -18,6 +19,7 @@
 - [osCommerce to CubeCart Migration](https://d2d-soft.com/cs-cart-migration/314-1337-oscommerce-to-cs-cart-migration-tool.html)
 - [OXID-eShop to CubeCart Migration](https://d2d-soft.com/cs-cart-migration/315-1342-oxid-eshop-to-cs-cart-migration-tool.html)
 - [Prestashop to CubeCart Migration](https://d2d-soft.com/cs-cart-migration/316-1347-prestashop-to-cs-cart-migration-tool.html)
+- [Salesforce to CubeCart Migration](https://d2d-soft.com/cubecart-migration/713-6682-salesforce-to-cubecart-migration-tool.html#/72-entities-1000)
 - [Shopify to CubeCart Migration](https://d2d-soft.com/cubecart-migration/373-1482-shopify-to-cubecart-migration-tool.html#/72-entities-1000)
 - [VirtueMart to CubeCart Migration](https://d2d-soft.com/cs-cart-migration/317-1352-virtuemart-to-cs-cart-migration-tool.html)
 - [Volusion to CubeCart Migration](https://d2d-soft.com/cubecart-migration/636-5879-volusion-to-cubecart-migration-tool.html#/72-entities-1000)
@@ -29,6 +31,7 @@
 - [ZenCart to CubeCart Migration](https://d2d-soft.com/cs-cart-migration/322-1377-zencart-to-cs-cart-migration-tool.html)
 
 ## Supported Platforms
+- [AmeriCommerce](https://www.americommerce.com/)
 - [BigCommerce](https://www.bigcommerce.com/)
 - [CS-Cart](https://www.cs-cart.com/)
 - [CubeCart](https://www.cubecart.com/)
@@ -44,6 +47,7 @@
 - [osCommerce](https://www.oscommerce.com/)
 - [OXID-eShop](https://www.oxid-esales.com)
 - [PrestaShop](https://www.prestashop.com)
+- [Salesforce](https://www.salesforce.com/)
 - [Shopify](https://www.shopify.com/)
 - [VirtueMart](https://virtuemart.net/)
 - [Volusion](https://volusion.com/)
