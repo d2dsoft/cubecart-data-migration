@@ -21,6 +21,7 @@
 - [Magento to CubeCart Migration](https://d2d-soft.com/cs-cart-migration/312-1327-magento-to-cs-cart-migration-tool.html)
 - [MarketPress to CubeCart Migration](https://d2d-soft.com/cubecart-migration/563-2372-marketpress-to-cubecart-migration-tool.html#/72-entities-1000)
 - [OpenCart to CubeCart Migration](https://d2d-soft.com/cs-cart-migration/313-1332-opencart-to-cs-cart-migration-tool.html)
+- [osCMax to CubeCart Migration](https://d2d-soft.com/cubecart-migration/1184-11539-oscmax-to-cubecart-migration-tool.html#/72-entities-1000)
 - [osCommerce to CubeCart Migration](https://d2d-soft.com/cs-cart-migration/314-1337-oscommerce-to-cs-cart-migration-tool.html)
 - [OXID-eShop to CubeCart Migration](https://d2d-soft.com/cs-cart-migration/315-1342-oxid-eshop-to-cs-cart-migration-tool.html)
 - [Prestashop to CubeCart Migration](https://d2d-soft.com/cs-cart-migration/316-1347-prestashop-to-cs-cart-migration-tool.html)
@@ -56,6 +57,7 @@
 - [Magento](https://magento.com/)
 - MarketPress
 - [OpenCart](https://www.opencart.com/)
+- osCMax
 - [osCommerce](https://www.oscommerce.com/)
 - [OXID-eShop](https://www.oxid-esales.com)
 - [PrestaShop](https://www.prestashop.com)
